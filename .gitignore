@@ -6,3 +6,6 @@ E
 F
 *.in
 *.out
+.DS_Store
+*~
+target
